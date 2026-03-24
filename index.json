@@ -1,0 +1,13 @@
+{
+  "name": "Zexyen's Jingle Jangles",
+  "entries": [
+    {
+      "game": "Kingdom Hearts II",
+      "file": "jingles/ps2/kingdom-hearts-2.mp3"
+    },
+    {
+      "game": "The Legend of Velma",
+      "file": "jingles/The Legend of Velma.ogg"
+    }
+  ]
+}
