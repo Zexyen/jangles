@@ -31,7 +31,7 @@
     },
     {
         "game": "Ace Combat 04 - Shattered Skies",
-        "file": "jingles/ps2/ace-combat-04.ogg"
+        "file": "jingles/ps2/ace-combat-4.ogg"
     },
     {
         "game": "Ace Combat 5 - The Unsung War",
@@ -43,7 +43,7 @@
     },
     {
         "game": "Ace Combat Zero",
-        "file": "jingles/ps2/ace-combate-zero.ogg"
+        "file": "jingles/ps2/ace-combat-zero.ogg"
     }
   ]
 }
