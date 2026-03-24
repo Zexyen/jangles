@@ -28,6 +28,22 @@
     {
         "game": "Armored Core: For Answer",
         "file": "jingles/ps3/armored-core-4a.ogg"
+    },
+    {
+        "game": "Ace Combat 04 - Shattered Skies",
+        "file": "jingles/ps2/ace-combat-04.ogg"
+    },
+    {
+        "game": "Ace Combat 5 - The Unsung War",
+        "file": "jingles/ps2/ace-combat-5.ogg"
+    },
+    {
+        "game": "Ace Combat 6 - Fires of Liberation",
+        "file": "jingles/xbox360/ace-combat-6.ogg"
+    },
+    {
+        "game": "Ace Combat Zero",
+        "file": "jingles/ps2/ace-combate-zero.ogg"
     }
   ]
 }
