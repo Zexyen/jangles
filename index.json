@@ -2,12 +2,32 @@
   "name": "Zexyen's Jingle Jangles",
   "entries": [
     {
-      "game": "Kingdom Hearts II",
-      "file": "jingles/ps2/kingdom-hearts-2.mp3"
+        "game": "Armored Core",
+        "file": "jingles/psx/armored-core.ogg"
     },
     {
-      "game": "The Legend of Velma",
-      "file": "jingles/The Legend of Velma.ogg"
+        "game": "Armored Core - Master of Arena",
+        "file": "jingles/psx/armored-core-master-of-arena.ogg"
+    },
+    {
+        "game": "Armored Core 2",
+        "file": "jingles/ps2/armored-core-2.ogg"
+    },
+    {
+        "game": "Armored Core 3",
+        "file": "jingles/ps2/armored-core-3.ogg"
+    },
+    {
+        "game": "Armored Core: Last Raven",
+        "file": "jingles/ps2/armored-core-last-raven.ogg"
+    },
+    {
+        "game": "Armored Core 4",
+        "file": "jingles/ps3/armored-core-4.ogg"
+    },
+    {
+        "game": "Armored Core: For Answer",
+        "file": "jingles/ps3/armored-core-4a.ogg"
     }
   ]
 }
