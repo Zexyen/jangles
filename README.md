@@ -42,9 +42,21 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 - Kingdom Hearts - Re-coded
 - The World Ends with You
 
+### Nintendo Entertainment System (NES)
+
+- Super Mario Bros.
+- Super Mario Bros. 2
+- Super Mario Bros. 3
+
+### Super Nintendo (SNES)
+
+- Super Mario World
+
 ### Nintendo 3DS
 
 - Kingdom Hearts 3D: Dream Drop Distance
+- Mario & Luigi: Dream Team
+- Mario & Luigi: Paper Jam
 - Mii Plaza
 
 ### Xbox 360
@@ -122,9 +134,18 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 
 ### Mario
 
+- Super Mario Bros. *(NES)*
+- Super Mario Bros. 2 *(NES)*
+- Super Mario Bros. 3 *(NES)*
+- Super Mario World *(SNES)*
 - Super Mario Galaxy *(Wii)*
 - Super Mario Galaxy 2 *(Wii)*
 - Super Mario Odyssey *(Switch)*
+
+### Mario & Luigi
+
+- Mario & Luigi: Dream Team *(3DS)*
+- Mario & Luigi: Paper Jam *(3DS)*
 
 ### Persona
 

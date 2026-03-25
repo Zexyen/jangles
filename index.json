@@ -144,6 +144,30 @@
     {
         "game": "Firewatch",
         "file": "jingles/pc/firewatch.ogg"
+    },
+    {
+        "game": "Mario & Luigi: Dream Team",
+        "file": "jingles/3ds/mario-luigi-dream-team.ogg"
+    },
+    {
+        "game": "Mario & Luigi: Paper Jam",
+        "file": "jingles/3ds/mario-luigi-paper-jam.ogg"
+    },
+    {
+        "game": "Super Mario Bros.",
+        "file": "jingles/nes/super-mario-bros.ogg"
+    },
+    {
+        "game": "Super Mario Bros. 2",
+        "file": "jingles/nes/super-mario-bros-2.ogg"
+    },
+    {
+        "game": "Super Mario Bros. 3",
+        "file": "jingles/nes/super-mario-bros-3.ogg"
+    },
+    {
+        "game": "Super Mario World",
+        "file": "jingles/snes/super-mario-world.ogg"
     }
   ]
 }
