@@ -132,6 +132,18 @@
     {
         "game": "Super Mario Galaxy 2 - Yoshi Jingle",
         "file": "jingles/wii/mario-galaxy-2-yoshi-jingle.ogg"
+    },
+    {
+        "game": "Luigi's Mansion - Title",
+        "file": "jingles/gc/luigis-mansion-title.ogg"
+    },
+    {
+        "game": "Luigi's Mansion - E. Gadd's Theme",
+        "file": "jingles/gc/luigis-mansion-egadd.ogg"
+    },
+    {
+        "game": "Firewatch",
+        "file": "jingles/pc/firewatch.ogg"
     }
   ]
 }

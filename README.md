@@ -51,6 +51,11 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 
 - Ace Combat 6 - Fires of Liberation
 
+### Nintendo GameCube
+
+- Luigi's Mansion - Title
+- Luigi's Mansion - E. Gadd's Theme
+
 ### Nintendo Wii
 
 - Super Mario Galaxy
@@ -67,6 +72,7 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 
 ### PC
 
+- Firewatch
 - Transistor
 
 ---
@@ -95,9 +101,7 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 ### Bayonetta
 
 - Bayonetta *(Switch)*
-- Bayonetta (Climax) *(Switch)*
-- Bayonetta 2 (Climax) *(Switch)*
-- Bayonetta 2 (Short) *(Switch)*
+- Bayonetta 2 *(Switch)*
 
 ### Final Fantasy
 
@@ -112,11 +116,14 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 - Kingdom Hearts - Re-coded *(NDS)*
 - Kingdom Hearts 3D: Dream Drop Distance *(3DS)*
 
+### Luigi's Mansion
+
+- Luigi's Mansion*(GameCube)*
+
 ### Mario
 
 - Super Mario Galaxy *(Wii)*
 - Super Mario Galaxy 2 *(Wii)*
-- Super Mario Galaxy 2 - Yoshi Jingle *(Wii)*
 - Super Mario Odyssey *(Switch)*
 
 ### Persona
@@ -127,7 +134,3 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 ### The World Ends with You
 
 - The World Ends with You *(NDS)*
-
-### Transistor
-
-- Transistor *(PC)*
