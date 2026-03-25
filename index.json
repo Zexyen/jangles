@@ -44,6 +44,58 @@
     {
         "game": "Ace Combat Zero",
         "file": "jingles/ps2/ace-combat-zero.ogg"
+    },
+    {
+        "game": "Armored Core 2: Another Age",
+        "file": "jingles/ps2/armored-core-2-another-age.ogg"
+    },
+    {
+        "game": "Armored Core: Silent Line",
+        "file": "jingles/ps2/armored-core-3-silent-line.ogg"
+    },
+    {
+        "game": "Kingdom Hearts",
+        "file": "jingles/ps2/kingdom-hearts-1.ogg"
+    },
+    {
+        "game": "Kingdom Hearts II",
+        "file": "jingles/ps2/kingdom-hearts-2.ogg"
+    },
+    {
+        "game": "Kingdom Hearts 358/2 Days",
+        "file": "jingles/nds/kingdom-hearts-365.ogg"
+    },
+    {
+        "game": "Kingdom Hearts Re:coded",
+        "file": "jingles/nds/kingdom-hearts-recoded.ogg"
+    },
+    {
+        "game": "Kingdom Hearts Birth by Sleep",
+        "file": "jingles/psp/kingdom-hearts-bbs.ogg"
+    },
+    {
+        "game": "Kingdom Hearts 3D: Dream Drop Distance",
+        "file": "jingles/3ds/kingdom-hearts-3d.ogg"
+    },
+    {
+        "game": "Dissidia Duodecim Final Fantasy",
+        "file": "jingles/psp/dissidia-duodecim.ogg"
+    },
+    {
+        "game": "Bayonetta",
+        "file": "jingles/switch/bayonetta.ogg"
+    },
+    {
+        "game": "Bayonetta (Climax)",
+        "file": "jingles/switch/bayonetta-1-climax.ogg"
+    },
+    {
+        "game": "Bayonetta 2 (Climax)",
+        "file": "jingles/switch/bayonetta-2-climax.ogg"
+    },
+    {
+        "game": "Bayonetta 2 (Short)",
+        "file": "jingles/switch/bayonetta-2-short.ogg"
     }
   ]
 }
