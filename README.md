@@ -23,6 +23,8 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 - Armored Core - Last Raven
 - Kingdom Hearts
 - Kingdom Hearts II
+- Persona 3
+- Persona 4
 
 ### PlayStation 3
 
@@ -31,21 +33,29 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 
 ### PlayStation Portable (PSP)
 
-- Dissidia Duodecim Final Fantasy
+- Dissidia 012 - Duodecim Final Fantasy
 - Kingdom Hearts Birth by Sleep
 
 ### Nintendo DS
 
-- Kingdom Hearts 358/2 Days
-- Kingdom Hearts Re:coded
+- Kingdom Hearts - 358-2 Days
+- Kingdom Hearts - Re-coded
+- The World Ends with You
 
 ### Nintendo 3DS
 
 - Kingdom Hearts 3D: Dream Drop Distance
+- Mii Plaza
 
 ### Xbox 360
 
 - Ace Combat 6 - Fires of Liberation
+
+### Nintendo Wii
+
+- Super Mario Galaxy
+- Super Mario Galaxy 2
+- Super Mario Galaxy 2 - Yoshi Jingle
 
 ### Nintendo Switch
 
@@ -53,6 +63,11 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 - Bayonetta (Climax)
 - Bayonetta 2 (Climax)
 - Bayonetta 2 (Short)
+- Super Mario Odyssey
+
+### PC
+
+- Transistor
 
 ---
 
@@ -86,13 +101,33 @@ This Repository is a collection of Jingles created by myself. The main focus of 
 
 ### Final Fantasy
 
-- Dissidia Duodecim Final Fantasy *(PSP)*
+- Dissidia 012 - Duodecim Final Fantasy *(PSP)*
 
 ### Kingdom Hearts
 
 - Kingdom Hearts *(PS2)*
 - Kingdom Hearts II *(PS2)*
 - Kingdom Hearts Birth by Sleep *(PSP)*
-- Kingdom Hearts 358/2 Days *(NDS)*
-- Kingdom Hearts Re:coded *(NDS)*
+- Kingdom Hearts - 358-2 Days *(NDS)*
+- Kingdom Hearts - Re-coded *(NDS)*
 - Kingdom Hearts 3D: Dream Drop Distance *(3DS)*
+
+### Mario
+
+- Super Mario Galaxy *(Wii)*
+- Super Mario Galaxy 2 *(Wii)*
+- Super Mario Galaxy 2 - Yoshi Jingle *(Wii)*
+- Super Mario Odyssey *(Switch)*
+
+### Persona
+
+- Persona 3 *(PS2)*
+- Persona 4 *(PS2)*
+
+### The World Ends with You
+
+- The World Ends with You *(NDS)*
+
+### Transistor
+
+- Transistor *(PC)*

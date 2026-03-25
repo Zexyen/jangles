@@ -62,11 +62,11 @@
         "file": "jingles/ps2/kingdom-hearts-2.ogg"
     },
     {
-        "game": "Kingdom Hearts 358/2 Days",
+        "game": "Kingdom Hearts - 358-2 Days",
         "file": "jingles/nds/kingdom-hearts-365.ogg"
     },
     {
-        "game": "Kingdom Hearts Re:coded",
+        "game": "Kingdom Hearts - Re-coded",
         "file": "jingles/nds/kingdom-hearts-recoded.ogg"
     },
     {
@@ -78,7 +78,7 @@
         "file": "jingles/3ds/kingdom-hearts-3d.ogg"
     },
     {
-        "game": "Dissidia Duodecim Final Fantasy",
+        "game": "Dissidia 012 - Duodecim Final Fantasy",
         "file": "jingles/psp/dissidia-duodecim.ogg"
     },
     {
@@ -96,6 +96,42 @@
     {
         "game": "Bayonetta 2 (Short)",
         "file": "jingles/switch/bayonetta-2-short.ogg"
+    },
+    {
+        "game": "Mii Plaza",
+        "file": "jingles/3ds/mii-plaza.ogg"
+    },
+    {
+        "game": "The World Ends with You",
+        "file": "jingles/nds/twewy.ogg"
+    },
+    {
+        "game": "Transistor",
+        "file": "jingles/pc/transistor.ogg"
+    },
+    {
+        "game": "Persona 3",
+        "file": "jingles/ps2/persona-3.ogg"
+    },
+    {
+        "game": "Persona 4",
+        "file": "jingles/ps2/persona-4.ogg"
+    },
+    {
+        "game": "Super Mario Odyssey",
+        "file": "jingles/switch/super-mario-odyssey.ogg"
+    },
+    {
+        "game": "Super Mario Galaxy",
+        "file": "jingles/wii/mario-galaxy-1.ogg"
+    },
+    {
+        "game": "Super Mario Galaxy 2",
+        "file": "jingles/wii/mario-galaxy-2.ogg"
+    },
+    {
+        "game": "Super Mario Galaxy 2 - Yoshi Jingle",
+        "file": "jingles/wii/mario-galaxy-2-yoshi-jingle.ogg"
     }
   ]
 }
